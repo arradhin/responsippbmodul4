@@ -1,0 +1,37 @@
+
+
+body {
+    margin: 0;
+    font-family: "Radio Canada", sans-serif;
+    background-image: url(https://www.iroamly.com/images/snowfall-areas-in-china.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.navigationbar ul {
+    list-style-type: none;
+    background-color:rgb(243, 85, 0);
+    padding: 0px;
+
+}
+
+.navigationbar a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navigationbar a:hover {
+    background-color: rgb(181, 63, 0);
+}
+.navigationbar li {
+    display: inline-block;
+    margin-left: 350px;
+
+}
